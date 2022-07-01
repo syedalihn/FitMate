@@ -407,7 +407,7 @@ def raise_frame():
                 # Curl counter logic
                 if l_angle > 90:
                     l_stage = "down"
-                if l_angle < 9 and l_stage =='down':
+                if l_angle < 15 and l_stage =='down':
                     l_stage="up"
                     l_counter +=1
                     
@@ -427,7 +427,7 @@ def raise_frame():
                 # Curl counter logic
                 if r_angle > 90:
                     r_stage = "down"
-                if r_angle < 9 and r_stage =='down':
+                if r_angle < 15 and r_stage =='down':
                     r_stage="up"
                     r_counter +=1
                     
