@@ -1,3 +1,4 @@
+python==3.10.2
 absl-py==1.0.0
 asgiref==3.5.0
 attrs==21.4.0
