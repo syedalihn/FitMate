@@ -40,9 +40,9 @@
   <p align="center">
     <br />
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/syedalihn/FitMate/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/syedalihn/FitMate/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -68,7 +68,6 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -105,15 +104,14 @@ Major Technologies Used in this project are:
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Make sure your drive has enough space to download and run this application.
 
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
 * pip
   ```sh
-  npm install i
+  pip install i
   ```
 
 ### Installation
@@ -132,7 +130,10 @@ _Below is an example of how you can instruct your audience on installing and set
    ```sh
    python app.py
    ```
-
+4. Browse Application
+   ```web
+   http://localhost:3000
+   ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
