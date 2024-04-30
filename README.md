@@ -1,7 +1,4 @@
-# FitMate - A Virtual Gym Trainer App
-| HomePage               | Endpoints               |
-| ---------------------- | ---------------------- |
-| <img src="https://user-images.githubusercontent.com/52163667/177003388-5d2bdb6c-b1da-4cb2-8935-65e82d445b7f.png" width="100%"> | <img src="https://github.com/syedalihn/FitMate/assets/52163667/9d9e9d42-5aa5-4ec8-9ede-d1d0e3b79286" width="100%"> |
+
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
@@ -87,8 +84,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+# FitMate - A Virtual Gym Trainer App
+| HomePage               | Endpoints               |
+| ---------------------- | ---------------------- |
+| <img src="https://user-images.githubusercontent.com/52163667/177003388-5d2bdb6c-b1da-4cb2-8935-65e82d445b7f.png" width="100%"> | <img src="https://github.com/syedalihn/FitMate/assets/52163667/9d9e9d42-5aa5-4ec8-9ede-d1d0e3b79286" width="100%"> |
+<!--[![Product Name Screen Shot][product-screenshot]](https://example.com)-->
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
