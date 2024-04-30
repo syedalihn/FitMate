@@ -108,11 +108,7 @@ Make sure your drive has enough space to download and run this application.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* pip
-  ```sh
-  pip install i
-  ```
+Python Version 3.10.2 must be installed on your system
 
 ### Installation
 
