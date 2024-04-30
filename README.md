@@ -33,10 +33,9 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">FitMate - A Virtual Gym Trainer App</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
@@ -84,7 +83,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-# FitMate - A Virtual Gym Trainer App
+
 | HomePage               | Endpoints               |
 | ---------------------- | ---------------------- |
 | <img src="https://user-images.githubusercontent.com/52163667/177003388-5d2bdb6c-b1da-4cb2-8935-65e82d445b7f.png" width="100%"> | <img src="https://github.com/syedalihn/FitMate/assets/52163667/9d9e9d42-5aa5-4ec8-9ede-d1d0e3b79286" width="100%"> |
