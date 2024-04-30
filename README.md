@@ -38,12 +38,7 @@
   <h3 align="center">FitMate - A Virtual Gym Trainer App</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
@@ -89,16 +84,7 @@
 | <img src="https://user-images.githubusercontent.com/52163667/177003388-5d2bdb6c-b1da-4cb2-8935-65e82d445b7f.png" width="100%"> | <img src="https://github.com/syedalihn/FitMate/assets/52163667/9d9e9d42-5aa5-4ec8-9ede-d1d0e3b79286" width="100%"> |
 <!--[![Product Name Screen Shot][product-screenshot]](https://example.com)-->
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+virtual personal gym trainer based on computer vision and machine learning technologies. In this project, we are using Pose estimation techniques that detects the user’s exercise pose and angles and provides real time feedback of his Pose, angles and reps. Through which user can improve their form. Gym Trainer utilizes the best in class pre-trained pose estimation model to distinguish a user’s pose by using pose landmarks, then evaluates the vector geometry of the posture through an activity to give valuable feedback.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -106,16 +92,11 @@ Use the `BLANK_README.md` to get started.
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Major Technologies Used in this project are:
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
+* [![Flask][Flask.js]][Flask-url]
+* [![Mediapipe][Mediapipe.js]][Mediapipe-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -130,27 +111,26 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+* pip
   ```sh
-  npm install npm@latest -g
+  npm install i
   ```
 
 ### Installation
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/syedalihn/FitMate.git
    ```
-3. Install NPM packages
+2. Install Python packages
    ```sh
-   npm install
+   pip install i
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+3. Run app.py
+   ```sh
+   python app.py
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -160,9 +140,7 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+Can be used in houses, offices, personal space.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -179,7 +157,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [ ] Chinese
     - [ ] Spanish
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/syedalihn/FitMate/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -203,21 +181,12 @@ Don't forget to give the project a star! Thanks again!
 
 
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/syedalihn/FitMate](https://github.com/syedalihn/FitMate)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
