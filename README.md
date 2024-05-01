@@ -93,8 +93,9 @@ virtual personal gym trainer based on computer vision and machine learning techn
 
 Major Technologies Used in this project are:
 
-* [![Flask][Flask.js]][Flask-url]
-* [![Mediapipe][Mediapipe.js]][Mediapipe-url]
+* [![Flask][Flask.com]][Flask-url]
+* [![Mediapipe][Mediapipe.com]][Mediapipe-url]
+* [![OpenCV][OpenCV.com]][OpenCV-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
