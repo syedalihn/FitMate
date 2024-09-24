@@ -15,7 +15,7 @@ Jinja2==3.0.3
 kiwisolver==1.4.2
 MarkupSafe==2.1.0
 matplotlib==3.5.1
-mediapipe==0.10.15
+mediapipe
 mysql-connector-python==8.0.29
 numpy==1.22.3
 opencv-contrib-python==4.5.5.64
